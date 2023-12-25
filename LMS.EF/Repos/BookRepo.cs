@@ -34,7 +34,11 @@ namespace LMS.EF.Repos
 
         }
 
-   
+        public async Task<T> findBookById(int id)
+        {
+            T item = await _context.Set<T>().FindAsync(id);
+            return item;
+        }
 
         public async Task<List<T>> getAll()
         {

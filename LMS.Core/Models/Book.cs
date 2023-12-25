@@ -9,13 +9,15 @@ namespace LMS.Core.Models
 {
     public class Book
     {
+        [Key]
+        
+        public int Id { get; set; }
         [Required(ErrorMessage =" Title Cant Be Empty ")]
         public string Title { get; set; }
 
         [Required(ErrorMessage = " Author Cant Be Empty ")]
         public string Author { get; set; }
 
-        [Key]
         [Required(ErrorMessage = " ISBN Cant Be Empty ")]
         public string ISBN { get; set; }
 
