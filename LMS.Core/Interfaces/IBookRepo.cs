@@ -9,7 +9,7 @@ namespace LMS.Core.Interfaces
         void remove(T book);
         Task<T> update(T book, int ISBN);
         Task<List<T>> getAll();
-        Task<T> findBook(string keyWord, Expression<Func<T, bool>> predicate);
+        Task<T> findBook(Expression<Func<T, bool>> predicate);
         Task<T> findBookById(int id);
 
     }

@@ -66,16 +66,37 @@ namespace LMS.Api.Controllers
             return Ok(book);
         }
 
+        [HttpPost("search4Book")]
+        public async Task<IActionResult> search4Book([FromForm] string kewWord )
+        {
+            Book? filter1 = await _unitOfWork.Books.findBook(x=>x.Title == kewWord);
+            Book? filter2 = await _unitOfWork.Books.findBook(x => x.Author  == kewWord);
+            Book? filter3 = await _unitOfWork.Books.findBook(x => x.ISBN == kewWord);
+
+            if (filter1 == null)
+            {
+                if (filter2 == null)
+                {
+                    if (filter3 == null)
+                    {
+                        return NotFound();
+                    }
+                }
+            }
+
+            return Ok(filter1 ?? filter2 ?? filter3);
+        }
+
+
         [HttpPost("deleteBook")]
-        public async Task<IActionResult> UpdateBook([FromForm] int id )
+        public async Task<IActionResult> deleteBook([FromForm] int id)
         {
             Book book = await _unitOfWork.Books.findBookById(id);
 
             if (book == null)
             {
-                return NotFound(); // Book not found
+                return NotFound();
             }
-
 
             _unitOfWork.Books.remove(book);
             return Ok("Book removed Succesfully");

@@ -25,11 +25,11 @@ namespace LMS.EF.Repos
             return book;
         }
 
-        public async Task<T> findBook(string keyWord, Expression<Func<T, bool>> predicate)
+        public async Task<T> findBook(Expression<Func<T, bool>> predicate)
         {
 
 
-            var item = _context.Set<T>().Where(predicate).First();
+            var item =await _context.Set<T>().FirstOrDefaultAsync(predicate);
             return item;
 
         }
