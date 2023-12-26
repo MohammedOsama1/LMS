@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.EF\\LMS.EF.csproj": {}
+    "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.EF\\LMS.EF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.Core\\LMS.Core.csproj": {
+    "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.Core\\LMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.Core\\LMS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.Core\\LMS.Core.csproj",
         "projectName": "LMS.Core",
-        "projectPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.Core\\LMS.Core.csproj",
-        "packagesPath": "C:\\Users\\osama.MAHAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.Core\\obj\\",
+        "projectPath": "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.Core\\LMS.Core.csproj",
+        "packagesPath": "C:\\Users\\mallo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\osama.MAHAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mallo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,25 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.EF\\LMS.EF.csproj": {
+    "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.EF\\LMS.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.EF\\LMS.EF.csproj",
+        "projectUniqueName": "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.EF\\LMS.EF.csproj",
         "projectName": "LMS.EF",
-        "projectPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.EF\\LMS.EF.csproj",
-        "packagesPath": "C:\\Users\\osama.MAHAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.EF\\obj\\",
+        "projectPath": "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.EF\\LMS.EF.csproj",
+        "packagesPath": "C:\\Users\\mallo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.EF\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\osama.MAHAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mallo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.Core\\LMS.Core.csproj": {
-                "projectPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS.Api\\LMS.Core\\LMS.Core.csproj"
+              "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.Core\\LMS.Core.csproj": {
+                "projectPath": "C:\\Users\\mallo\\OneDrive\\Documents\\GitHub\\LMS\\LMS.Core\\LMS.Core.csproj"
               }
             }
           }
@@ -138,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

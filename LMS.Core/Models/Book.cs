@@ -11,7 +11,7 @@ namespace LMS.Core.Models
     {
         [Key]
         
-        public int Id { get; set; }
+        public int Id { get; private set; }
         [Required(ErrorMessage =" Title Cant Be Empty ")]
         public string Title { get; set; }
 

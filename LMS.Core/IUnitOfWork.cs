@@ -11,6 +11,8 @@ namespace LMS.Core
     public interface IUnitOfWork : IDisposable
     {
         IBookRepo<Book> Books { get; }
+        IBorrowerRepo<Borrower> Borrowers { get; }
+
         int Complete();
 
     }

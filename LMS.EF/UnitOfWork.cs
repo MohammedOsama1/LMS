@@ -15,6 +15,8 @@ namespace LMS.EF
     public class UnitOfWork : IUnitOfWork
     {
         public IBookRepo<Book> Books { get; private set; }
+        public IBorrowerRepo<Borrower> Borrowers { get; private set; }
+
 
 
         private readonly ApplicationDbContext _context;
@@ -23,6 +25,7 @@ namespace LMS.EF
         {
             _context = context;
             Books = new BookRepo<Book>(_context);
+            Borrowers = new BorrowerRepo<Borrower>(_context);
         }
 
         public int Complete()
