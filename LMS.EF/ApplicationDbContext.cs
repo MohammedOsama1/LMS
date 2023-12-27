@@ -15,6 +15,8 @@ namespace LMS.EF
         }
        public virtual DbSet<Book> Books {  get; set; }
         public virtual DbSet<Borrower> Borrowers { get; set; }
+        public virtual DbSet<BorrowingRecord> BorrowingRecords { get; set; }
+
 
     }
 }
