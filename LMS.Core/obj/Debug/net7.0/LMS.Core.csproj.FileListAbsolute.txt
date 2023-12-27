@@ -22,3 +22,15 @@ C:\Users\mallo\OneDrive\Documents\GitHub\LMS\LMS.Core\obj\Debug\net7.0\LMS.Core.
 C:\Users\mallo\OneDrive\Documents\GitHub\LMS\LMS.Core\obj\Debug\net7.0\refint\LMS.Core.dll
 C:\Users\mallo\OneDrive\Documents\GitHub\LMS\LMS.Core\obj\Debug\net7.0\LMS.Core.pdb
 C:\Users\mallo\OneDrive\Documents\GitHub\LMS\LMS.Core\obj\Debug\net7.0\ref\LMS.Core.dll
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\bin\Debug\net7.0\LMS.Core.deps.json
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\bin\Debug\net7.0\LMS.Core.dll
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\bin\Debug\net7.0\LMS.Core.pdb
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\obj\Debug\net7.0\LMS.Core.csproj.AssemblyReference.cache
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\obj\Debug\net7.0\LMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\obj\Debug\net7.0\LMS.Core.AssemblyInfoInputs.cache
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\obj\Debug\net7.0\LMS.Core.AssemblyInfo.cs
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\obj\Debug\net7.0\LMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\obj\Debug\net7.0\LMS.Core.dll
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\obj\Debug\net7.0\refint\LMS.Core.dll
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\obj\Debug\net7.0\LMS.Core.pdb
+C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Core\obj\Debug\net7.0\ref\LMS.Core.dll

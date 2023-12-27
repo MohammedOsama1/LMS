@@ -28,12 +28,14 @@ namespace LMS.Api.Controllers
         }
 
         [HttpPost("assginNewBorrower")]
-        public async Task<IActionResult> signNewBorrower ([FromForm] Borrower borrower)
+        public async Task<IActionResult> signNewBorrower ([FromForm] string email ,string name)
         {
-           var item = await _unitOfWork.Borrowers.findBy(x => x.Email == borrower.Email);
+            var newBook = new Borrower() { Name = name, Email= email };
+
+            var item = await _unitOfWork.Borrowers.findBy(x => x.Email == email);
            if (item == null)
             {
-                await _unitOfWork.Borrowers.addNew(borrower);
+                await _unitOfWork.Borrowers.addNew(newBook);
                 _unitOfWork.Complete();
                 return Ok();
             }
