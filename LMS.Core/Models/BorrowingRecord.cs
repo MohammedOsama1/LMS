@@ -15,11 +15,11 @@ namespace LMS.Core.Models
 
        [ForeignKey("BorrowerId")]
        public Borrower Borrower { get; set; }
-       public int BorrowerId { get; }
+       public int BorrowerId { get; set; }
 
-       [ForeignKey("BookId")]
+        [ForeignKey("BookId")]
        public Book Book { get; set; }
-       public int BookId { get;}
+       public int BookId { get; set; }
        public DateTime DateTime { get; } = DateTime.Now;
 
        
