@@ -20,8 +20,16 @@ namespace LMS.Core.Models
         [ForeignKey("BookId")]
        public Book Book { get; set; }
        public int BookId { get; set; }
-       public DateTime DateTime { get; } = DateTime.Now;
 
-       
+       public DateTime CheckOutDate { get; set; } 
+
+       public DateTime DueDate { get; set; }
+
+       public DateTime ReturnDate { get; set; }
+        public BorrowingRecord()
+        {
+            CheckOutDate = DateTime.Now;
+        }
+
     }
 }

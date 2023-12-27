@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NMAmckl0fQ2HydPrd7ER3E7WTWcjQt+lmNbZA57rvUZekWWv/ssi7+mBh9a1X3k19OZbHKSXERAlirMmP5GWjQ==",
+  "dgSpecHash": "e0+xzWfG06n1eIh0KJNUJSvuRe0hjS/oAyryndmi/zvNYSHRGNumjrzAZEAnNul5zzYrHtk+7vLe8GlEOgh+Vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.EF\\LMS.EF.csproj",
+  "projectFilePath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.EF\\LMS.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\osama.MAHAM\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\osama.MAHAM\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.EF\\LMS.EF.csproj": {}
+    "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.EF\\LMS.EF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.Core\\LMS.Core.csproj": {
+    "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.Core\\LMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.Core\\LMS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.Core\\LMS.Core.csproj",
         "projectName": "LMS.Core",
-        "projectPath": "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.Core\\LMS.Core.csproj",
+        "projectPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.Core\\LMS.Core.csproj",
         "packagesPath": "C:\\Users\\osama.MAHAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.Core\\obj\\",
+        "outputPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.EF\\LMS.EF.csproj": {
+    "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.EF\\LMS.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.EF\\LMS.EF.csproj",
+        "projectUniqueName": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.EF\\LMS.EF.csproj",
         "projectName": "LMS.EF",
-        "projectPath": "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.EF\\LMS.EF.csproj",
+        "projectPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.EF\\LMS.EF.csproj",
         "packagesPath": "C:\\Users\\osama.MAHAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.EF\\obj\\",
+        "outputPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.EF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.Core\\LMS.Core.csproj": {
-                "projectPath": "C:\\Users\\osama.MAHAM\\Source\\Repos\\LMS\\LMS.Core\\LMS.Core.csproj"
+              "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.Core\\LMS.Core.csproj": {
+                "projectPath": "C:\\Users\\osama.MAHAM\\source\\repos\\LMS\\LMS.Core\\LMS.Core.csproj"
               }
             }
           }
