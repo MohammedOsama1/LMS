@@ -1,0 +1,17 @@
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\bin\Release\net7.0\LMS.EF.deps.json
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\bin\Release\net7.0\LMS.EF.runtimeconfig.json
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\bin\Release\net7.0\LMS.EF.dll
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\bin\Release\net7.0\LMS.EF.pdb
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\bin\Release\net7.0\LMS.Core.dll
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\bin\Release\net7.0\LMS.Core.pdb
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\LMS.EF.csproj.AssemblyReference.cache
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\LMS.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\LMS.EF.AssemblyInfoInputs.cache
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\LMS.EF.AssemblyInfo.cs
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\LMS.EF.csproj.CoreCompileInputs.cache
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\LMS.EF.csproj.CopyComplete
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\LMS.EF.dll
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\refint\LMS.EF.dll
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\LMS.EF.pdb
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\LMS.EF.genruntimeconfig.cache
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.EF\obj\Release\net7.0\ref\LMS.EF.dll

@@ -95,7 +95,6 @@ namespace LMS.Api.Controllers
                         BookId = record.BookId,
                         Title = record.Book.Title,
                         Author = record.Book.Author,
-                        // Include other book properties you want to expose
                         CheckOutDate = record.CheckOutDate,
                         DueDate = record.DueDate,
                         ReturnDate = record.ReturnDate

@@ -1,0 +1,3 @@
+C:\Users\osama.MAHAM\source\repos\LMS\published\LMS.Core.dll
+C:\Users\osama.MAHAM\source\repos\LMS\published\LMS.Core.deps.json
+C:\Users\osama.MAHAM\source\repos\LMS\published\LMS.Core.pdb

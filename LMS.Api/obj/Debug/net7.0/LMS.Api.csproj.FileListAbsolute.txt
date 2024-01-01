@@ -238,3 +238,5 @@ C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Api\obj\Debug\net7.0\refint\LMS.Api.dl
 C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Api\obj\Debug\net7.0\LMS.Api.pdb
 C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Api\obj\Debug\net7.0\LMS.Api.genruntimeconfig.cache
 C:\Users\osama.MAHAM\Source\Repos\LMS\LMS.Api\obj\Debug\net7.0\ref\LMS.Api.dll
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.Api\bin\Debug\net7.0\AspNetCoreRateLimit.dll
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
