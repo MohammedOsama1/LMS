@@ -80,3 +80,4 @@ C:\Users\osama.MAHAM\source\repos\LMS\LMS.Api\obj\Release\net7.0\LMS.Api.genrunt
 C:\Users\osama.MAHAM\source\repos\LMS\LMS.Api\obj\Release\net7.0\ref\LMS.Api.dll
 C:\Users\osama.MAHAM\source\repos\LMS\LMS.Api\bin\Release\net7.0\AspNetCoreRateLimit.dll
 C:\Users\osama.MAHAM\source\repos\LMS\LMS.Api\bin\Release\net7.0\Newtonsoft.Json.dll
+C:\Users\osama.MAHAM\source\repos\LMS\LMS.Api\bin\Release\net7.0\CsvHelper.dll

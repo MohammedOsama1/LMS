@@ -1,7 +1,10 @@
+using CsvHelper.Configuration;
+using CsvHelper;
 using LMS.Core;
 using LMS.Core.Models;
 using LMS.EF;
 using Microsoft.AspNetCore.Mvc;
+using System.Text;
 
 namespace LMS.Api.Controllers
 {
@@ -102,5 +105,25 @@ namespace LMS.Api.Controllers
             return Ok("Book removed Succesfully");
         }
 
+        [Route("exportAllBooks")]
+        [HttpGet]
+        public async Task<ActionResult> export()
+        {
+            var books = await _unitOfWork.Books.getAll();
+            var cc = new CsvConfiguration(new System.Globalization.CultureInfo("en-US"));
+            using (var ms = new MemoryStream())
+            {
+                using (var sw = new StreamWriter(stream: ms, encoding: new UTF8Encoding(true)))
+                {
+                    using (var cw = new CsvWriter(sw, cc))
+                    {
+                        cw.WriteRecords(books);
+                    }// The stream gets flushed here.
+                    return File(ms.ToArray(), "text/csv", $"{DateTime.UtcNow.Ticks}.csv");
+                }
+            }
+        }
+
     }
 } 
+
